@@ -7,3 +7,15 @@
 	background-color: black;
 	color: aliceblue;
 }
+
+a{
+	background-color: aliceblue;
+	color: black;
+     font-size: 20px;
+}
+
+
+#sign
+{
+	color: green;
+}
