@@ -2,6 +2,7 @@
 <body>
 <link href="style.css" rel="stylesheet">
 <h2 id="head">this is a java EE project</h2>
+<img alt="" src="https://www.interxect.com/main/wp-content/uploads/2018/02/devops_2.png">
 <a href="about.html">about</a>
 </body>
 </html>
